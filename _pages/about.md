@@ -17,9 +17,11 @@ I am currently a Scientist in R&D Infectious Disease at Quest Diagnostics. I now
 
 Education
 ======
-University of California, Riverside  <br>
-Entomology (PhD) *2016-2021* <br><br>
-University of California, Irvine *2011-2015*<br>
-Ecology and Evolutionary Biology (BS)<br>
+##### University of California, Riverside    
+Entomology, Ph.D.  
+*2016-2021*  <br><br>
+##### University of California, Irvine    
+Ecology and Evolutionary Biology, B.S.   
+*2011-2015*  <br>
 
 <img src='/images/StudySystem2.png'>
