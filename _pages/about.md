@@ -21,4 +21,4 @@ Entomology (PhD) *2016-2021* <br><br>
 University of California, Irvine *2011-2015*<br>
 Ecology and Evolutionary Biology (BS)<br>
 
-<img src='/images/APHID.png'>
+<img src='/images/StudySystem2.png'>
