@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "tessa shates"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
