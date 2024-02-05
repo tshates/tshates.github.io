@@ -14,6 +14,8 @@ Where am I now?
 ======
 I am currently a Scientist in R&D Infectious Disease at Quest Diagnostics. I now work with serology assays and infectious disease diagnostics - a very different group of “bugs” from my dissertation. <br><br>
 
+In general, my interests include detection of infectious diseases, with a special focus on arthropod-borne pathogens and their vectors.    
+
 Education
 ======
 University of California, Riverside  <br>
