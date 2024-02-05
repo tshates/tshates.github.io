@@ -13,7 +13,7 @@ In general, my interests include detection of infectious diseases, with a specia
 
 Where am I now? 
 ======
-I am currently a Scientist in R&D Infectious Disease at Quest Diagnostics. I now work with serology assays and infectious disease diagnostics - a very different group of “bugs” from my dissertation. <br><br>
+I am currently a Scientist in R&D Infectious Disease at Quest Diagnostics. I now work with serology assays and infectious disease diagnostics - a very different group of “bugs” from my dissertation. <br>
 
 Education
 ======
