@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+ 
+  - title: "Experience"
+    url: /experience/
 
   - title: "Talks"
     url: /talks/    
@@ -9,5 +12,3 @@ main:
   - title: "Skills"
     url: /skills/    
          
-  - title: "CV"
-    url: /cv/
