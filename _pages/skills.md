@@ -33,5 +33,5 @@ author_profile: true
 
 *Languages*  
 1. English 
-2. Russian  (Conversational)
-3. Spanish  (Written and conversational)
+2. Russian  (Basic conversational)
+3. Spanish  (Basic written and conversational)
