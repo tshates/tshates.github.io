@@ -24,7 +24,8 @@ author_profile: true
 *Data analysis*  
 1. Data "wrangling", analysis and visualization using R coding language
 2. Statistics (using R for coding)  
-3. Proficient use of Excel   
+3. Proficient use of Excel
+4. Scientific writing   
 
 *Field & Other skills*  
 1. Electrical penetration graph technique for monitoring piercing-sucking feeding behaviors of insects
