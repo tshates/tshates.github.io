@@ -16,17 +16,21 @@ author_profile: true
 {% endfor %}
 
 *Laboratory*  
-1. Lab skills
-2. More lab skills
+1. Nucleic acid extraction (DNA, RNA and double-stranded RNA)  
+2. Reverse transcription & PCR, quantitative PCR  
+3. Library prepareation for Next Generation Sequencing  
+4. Serology assays such as ELISA, immunoassays, western blot   
 
 *Data analysis*  
-1. Data  
-2. Data  
+1. Data "wrangling", analysis and visualization using R coding language
+2. Statistics (using R for coding)  
+3. Proficient use of Excel   
 
 *Field & Other skills*  
-1. Field  
+1. Electrical penetration graph technique for monitoring piercing-sucking feeding behaviors of insects
+2. Plant and insect identification and sampling 
 
 *Languages*  
-1. English  
-2. Russian  
-3. Spanish  
+1. English 
+2. Russian  (Conversational)
+3. Spanish  (Writtean and conversational)
