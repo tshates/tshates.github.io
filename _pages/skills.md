@@ -15,17 +15,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-*Laboratory*  
-1. Nucleic acid extraction (DNA, RNA and double-stranded RNA)  
-2. Reverse transcription & PCR, quantitative PCR  
-3. Library prepareation for Next Generation Sequencing  
-4. Serology assays such as ELISA, immunoassays, western blot   
-
 *Data analysis*  
 1. Data "wrangling", analysis and visualization using R coding language
 2. Statistics (using R for coding)  
 3. Proficient use of Excel
 4. Scientific writing   
+
+*Laboratory*  
+1. Nucleic acid extraction (DNA, RNA and double-stranded RNA)  
+2. Reverse transcription & PCR, quantitative PCR  
+3. Library preparation for Next Generation Sequencing  
+4. Serology assays such as ELISA, immunoassays, western blot
+5. Gas chromatography/mass spectrometry (basic)   
 
 *Field & Other skills*  
 1. Electrical penetration graph technique for monitoring piercing-sucking feeding behaviors of insects
