@@ -1,9 +1,8 @@
 ---
 title: "Conference and Seminar Presentations"
 collection: talks
-type: "Presentation"
+type: "List of presentations (talks and posters)"
 permalink: /talks/2021-04-20-presentation
-venue: "Conferences and Virtual"
 ---
 
 **April 2023**: Native plants and their viral foes. Remote. Invited seminar.  
