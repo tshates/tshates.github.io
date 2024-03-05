@@ -5,6 +5,8 @@ type: "List of presentations (talks and posters)"
 permalink: /talks/2021-04-20-presentation
 ---
 
+List of presentations (talks and posters) from 2017 to present.  
+
 **April 2023**: Native plants and their viral foes. Remote. Invited seminar.  
 
 **Nov. 2022**: How to facilitate genuine research experiences for undergraduates. Remote. Invited talk.  
