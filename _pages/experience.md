@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Post PhD Experience
-**Scientist**, Infectious Disease RD (January 2022 - Present)  
+**Scientist**, Infectious Disease R&D (January 2022 - Present)  
 *Quest Diagnostics* 
 * Validation, verification, research and development of serology assays
 * Molecular assay research and development  
@@ -23,11 +23,11 @@ author_profile: true
 * Gas chromatography/mass spectrometry of insect pheromones and cuticular hydrocarbons  
 
 ## Pre PhD Experience  
-**Field Crew Intern**  (June – Aug. 2015)
+**Field Crew Intern**  (June – Aug. 2015)  
 *Northwest Entomological Research Center*  
 * Surveyed arthropod diversity in logging sites with varying levels of herbicidal spray  
 
-**Undergraduate Researcher** (Sep. 2013 – June 2015)  
+**Undergraduate Researcher** (Sep. 2013 – June 2015)   
 *University of California, Irvine*   
 * Executed experiments on genetic variation in plant chemical defenses  
 * Performed methanolic extractions and analysis with liquid chromatography-mass spectrometry  
