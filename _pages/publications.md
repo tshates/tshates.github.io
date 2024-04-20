@@ -27,7 +27,7 @@ Millar, J.G., Zou, Y., Hall, D.R., Halloran, S., Pajares, J.A.,Ponce-Herrero, L.
 **Shates, T.M.**, Gebiola, M., Sun, P., Aung, O., Helo, A., Kenney, J., Malmstrom, CM., Mauck, KE., Non-native plant viruses prevalent in remnant natural plant communities harm native perennial hosts. Phytobiomes, 2023. doi:[10.1094/PBIOMES-05-23-0033-R](https://apsjournals.apsnet.org/doi/abs/10.1094/PBIOMES-05-23-0033-R)   
 
 Kenney, J.R., **Shates, T.M**, Gebiola, M., and Mauck, K.E. Hiding in plain sight: a widespread native perennial harbors
-diverse haplotypes of Candidatus Liberibacter solanacearum and its potato psyllid vector. Phytopathology. In Review.  
+diverse haplotypes of Candidatus Liberibacter solanacearum and its potato psyllid vector. Phytopathology, 2024. doi: [10.1094/PHYTO-01-24-0025-R](https://apsjournals.apsnet.org/doi/abs/10.1094/PBIOMES-05-23-0033-R)
 
 
 *Just for fun*  
