@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Post PhD Experience
+## Recent Experience
 **Scientist**, Infectious Disease R&D (January 2022 - Present)  
 *Quest Diagnostics* 
 * Validation, verification, research and development of serology assays
@@ -22,7 +22,7 @@ author_profile: true
 * Train and mentor undergraduate students in laboratory techniques
 * Gas chromatography/mass spectrometry of insect pheromones and cuticular hydrocarbons  
 
-## Pre PhD Experience  
+## Prior Experience  
 **Field Crew Intern**  (June – Aug. 2015)  
 *Northwest Entomological Research Center*  
 * Surveyed arthropod diversity in logging sites with varying levels of herbicidal spray  
