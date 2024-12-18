@@ -29,6 +29,7 @@ Millar, J.G., Zou, Y., Hall, D.R., Halloran, S., Pajares, J.A.,Ponce-Herrero, L.
 Kenney, J.R., **Shates, T.M**, Gebiola, M., and Mauck, K.E. Hiding in plain sight: a widespread native perennial harbors
 diverse haplotypes of Candidatus Liberibacter solanacearum and its potato psyllid vector. Phytopathology, 2024. doi: [10.1094/PHYTO-01-24-0025-R](https://apsjournals.apsnet.org/doi/abs/10.1094/PBIOMES-05-23-0033-R)
 
+**Shates, T.M.**, Realegeno, S., Prince, H.E.,  Marlowe, E.M., Relationship Between HSV-1 Serostatus and HSV-2 IgG Confirmation Results using an Inhibition Assay. Sexually Transmitted Diseases, 2024. doi:[10.1097/OLQ.0000000000002087](https://journals.lww.com/stdjournal/abstract/9900/relationship_between_hsv_1_serostatus_and_hsv_2.416.aspx)   
 
 *Just for fun*  
 
