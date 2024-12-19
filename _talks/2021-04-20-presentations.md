@@ -7,9 +7,9 @@ permalink: /talks/2021-04-20-presentation
 
 List of presentations (talks and posters) from 2017 to present.  
 
-**October 2024**: TITLE. Long Beach, CA. Poster. 
+**October 2024**: Evaluation of a Modified HIV Diagnostic Algorithm Utilizing an HIV NAT to Eliminate the HIV-1/HIV-2 Differential Immunoassay. Long Beach, CA. Poster. 
 
-**June 2024**: TITLE. Atlanta, GA. Poster. 
+**June 2024**: Evaluation of a Commercially Available Echinococcus Western Blot to a CLIA-validated Western Blot. Atlanta, GA. Poster. 
 
 **April 2023**: Native plants and their viral foes. Remote. Invited seminar.  
 
