@@ -7,6 +7,8 @@ permalink: /talks/2021-04-20-presentation
 
 List of presentations (talks and posters) from 2017 to present.  
 
+**March 2025**: Evaluation of a Hantavirus IgG and IgM Bead-based Immunoassay. Pasadena, CA. Poster. 
+
 **October 2024**: Evaluation of a Modified HIV Diagnostic Algorithm Utilizing an HIV NAT to Eliminate the HIV-1/HIV-2 Differential Immunoassay. Long Beach, CA. Poster. 
 
 **June 2024**: Evaluation of a Commercially Available Echinococcus Western Blot to a CLIA-validated Western Blot. Atlanta, GA. Poster. 
