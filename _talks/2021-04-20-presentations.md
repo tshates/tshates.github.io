@@ -17,8 +17,8 @@ List of presentations (talks and posters) from 2017 to present.
 
 **Nov. 2022**: How to facilitate genuine research experiences for undergraduates. Remote. Invited talk.  
 
-**May 2022**: Essig Brunch Entomology Seminar: How to facilitate genuine research experiences
-for undergraduates. Remote. Invited talk.  
+**May 2022**: Essig Brunch Entomology Seminar: Crop virus communities in wild hosts:
+Composition, epidemiology, and effects. Remote. Invited talk.  
 
 **Nov. 2021**: Entomology 2021: Effects of a crop-associated virus on host performance and aphid vector behavior. Denver, CO, talk.  
 
