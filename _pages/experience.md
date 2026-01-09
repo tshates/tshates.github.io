@@ -19,6 +19,7 @@ author_profile: true
 * Develop new study systems using wild plants for experiments with viruses and insect vectors  
 * Write grant applications: resulting in $52,718 in funding
 * Present findings to specialized audiences at professional conferences
+* Teach Laboratory and Discussion Sections for Undergraduate Majors and Non-Science Majors Courses in Entomology and Biology
 * Train and mentor undergraduate students in laboratory techniques
 * Gas chromatography/mass spectrometry of insect pheromones and cuticular hydrocarbons  
 
