@@ -7,6 +7,10 @@ permalink: /talks/2021-04-20-presentation
 
 List of presentations (talks and posters) from 2017 to present.  
 
+**May 2026**: Evaluation of an Oropouche virus IgM Bead-based Immunoassay. Clearwater, FL. Talk. 
+
+**April 2026**: Evaluation of an Oropouche IgM Bead-based Immunoassay. Clearwater, FL. Poster. 
+
 **March 2025**: Evaluation of a Hantavirus IgG and IgM Bead-based Immunoassay. Pasadena, CA. Poster. 
 
 **October 2024**: Evaluation of a Modified HIV Diagnostic Algorithm Utilizing an HIV NAT to Eliminate the HIV-1/HIV-2 Differential Immunoassay. Long Beach, CA. Poster. 
