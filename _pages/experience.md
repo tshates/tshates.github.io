@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 ## Recent Experience
-**Scientist**, Infectious Disease R&D (January 2022 - Present)  
+**Senior Scientist**, Infectious Disease R&D (May 2026 - Present)  
+**Scientist**, Infectious Disease R&D (January 2022 - April 2026)  
 *Quest Diagnostics* 
 * Validation, verification, research and development of serology assays
+* Write reports and peer reviewed manuscripts, present posters and talks
 * Molecular assay research and development  
 * Data analysis - coding and visualization
 
