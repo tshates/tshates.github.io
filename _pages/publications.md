@@ -31,6 +31,8 @@ diverse haplotypes of Candidatus Liberibacter solanacearum and its potato psylli
 
 **Shates, T.M.**, Realegeno, S., Prince, H.E.,  Marlowe, E.M., Relationship Between HSV-1 Serostatus and HSV-2 IgG Confirmation Results using an Inhibition Assay. Sexually Transmitted Diseases, 2024. doi:[10.1097/OLQ.0000000000002087](https://journals.lww.com/stdjournal/abstract/9900/relationship_between_hsv_1_serostatus_and_hsv_2.416.aspx)   
 
+**Shates, T.M.**, Macias, K., Realegeno, S.,  Starolis, M., Marlowe, E.M., Evaluation of a modified 2-step diagnostic algorithm for human immunodeficiency virus type 1 utilizing an HIV-1/2 antigen/antibody immunoassay screen and an HIV nucleic acid amplification test, 2026. doi:[10.1016/j.jcv.2026.105947](https://pubmed.ncbi.nlm.nih.gov/42054824/)
+
 *Just for fun*  
 
 The Bugs and the Bees: A Guide to Entomology Outreach, Even During a Pandemic<br>
